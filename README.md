@@ -3,7 +3,7 @@ MSDN-Vintage
 
 MSDN Vintage
 
-This extension simple puts a watermark on MSDN .NET pages that are not version 4.5.
+This extension simply puts a watermark on MSDN .NET pages that are not version 4.5.
 
 Info on Chrome extensions: http://developer.chrome.com/extensions/getstarted.html and http://www.informit.com/articles/article.aspx?p=1916420
 
