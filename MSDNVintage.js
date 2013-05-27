@@ -1,6 +1,9 @@
 var items = document.querySelectorAll('#curversion');
 if(items.length > 0){
   var item = items[0];
+  if(!(item.innerText.indexOf(".NET Framework") == 0)) {
+    return;
+  }
   if(!(item.innerText == ".NET Framework 4.5")) {
     var topicDivs = document.querySelectorAll('.topic');
     if(topicDivs.length > 0){
